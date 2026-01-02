@@ -17,3 +17,17 @@ Total Records: ~8,800 titles
 Content Types: Movies and TV Shows
 
 Time Range: 1925 – 2021
+
+🛠 Tools & Technologies Used
+
+Python (Pandas, NumPy)
+
+Data Visualization (Matplotlib)
+
+Jupyter Notebook
+
+📌 Conclusion
+
+This analysis provides a clear view of Netflix’s content strategy, emphasizing its growth trajectory, regional dominance, and genre preferences. The insights can help understand how Netflix aligns content production with global audience demand.
+
+CSV Dataset (Kaggle – Netflix Titles)
