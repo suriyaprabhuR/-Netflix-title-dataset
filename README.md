@@ -30,4 +30,3 @@ Jupyter Notebook
 
 This analysis provides a clear view of Netflix’s content strategy, emphasizing its growth trajectory, regional dominance, and genre preferences. The insights can help understand how Netflix aligns content production with global audience demand.
 
-CSV Dataset (Kaggle – Netflix Titles)
